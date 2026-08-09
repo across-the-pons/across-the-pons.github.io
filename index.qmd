@@ -1,11 +1,49 @@
 ---
-title: "across-the-pons"
+pagetitle: "Across the PONs | A Cross-National Study of Purpose-Oriented Networks"
+title: "Across the PONs"
+subtitle: "A cross-national study of how purpose-oriented networks form, govern themselves, and perform"
+title-block-banner: images/hero.dark.jpg
+title-block-banner-color: white
+toc: false
 ---
 
-This is a Quarto website.
+::: {.lead-text}
+Public problems rarely respect organizational and capabilities. The
+collaborative arrangements that form around them, known as purpose-oriented networks (PONs),
+have become a central instrument of governance, yet we know remarkably little
+about how their structure and performance vary across national contexts.
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Across the PONs is a group of international scholars interested in examining purpose-oriented networks in different national contexts. Where existing research
+draws overwhelmingly on single-country evidence and single case studies, this project takes a team science approach to build a one of a kind database of PONs. We have developed common [survey instruments and interview guides](resources.qmd) to allow for comparative research across contexts. 
 
-```{r}
-1 + 1
-```
+Our work combines comparative case analysis with social network analysis to ask what national institutional context does to collaborative governance. 
+
+Our hope is that other scholars will join this effort, use our data collection instruments, and contribute to growing database and repository of knowledge on PONs.
+
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### [About the Project](about.qmd)
+The research questions, study design, and how the project came together.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### [People](people.qmd)
+The members of our research team.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### [Resources](resources.qmd)
+Working papers, data collection instruments, and materials for researchers.
+:::
+
+:::
+
+---
+
+## Contact
+
+For questions about the project or interest in collaborating, contact members of the coordinating committee:
+[Michael D. Siciliano](mailto:sicilian@uic.edu), [Jorg Raab](mailto:j.raab@tilburguniversity.edu), [Michelle Shumate](mailto:shumate@northwestern.edu), and [Robin Lemaire](mailto:rlemaire@lsu.edu).

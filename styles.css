@@ -1,1 +1,43 @@
-/* css styles */
+/* Across the PONs — site styles */
+
+/* Opening statement on the landing page */
+.lead-text {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  font-weight: 300;
+  margin: 2rem 0 2.5rem 0;
+  padding-left: 1.25rem;
+  border-left: 3px solid #2c5f8a;
+}
+
+/* Navigation cards */
+.grid h3 {
+  margin-top: 0;
+  font-size: 1.15rem;
+}
+
+.grid h3 a {
+  text-decoration: none;
+}
+
+.grid h3 a:hover {
+  text-decoration: underline;
+}
+
+/* Give the banner more vertical presence */
+.quarto-title-block .quarto-title-banner {
+  min-height: 340px;
+  display: flex;
+  align-items: center;
+}
+
+/* Keep title text legible over a photographic background */
+.quarto-title-banner h1.title,
+.quarto-title-banner .subtitle {
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.55);
+}
+
+/* Table on the landing page — remove the boxed look */
+table {
+  border-collapse: collapse;
+}

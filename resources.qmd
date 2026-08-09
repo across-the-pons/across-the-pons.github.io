@@ -1,0 +1,6 @@
+---
+title: "Resources"
+toc: true
+toc-location: left
+editor: source
+---
