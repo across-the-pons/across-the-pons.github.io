@@ -101,3 +101,8 @@ table tbody tr:nth-child(even) {
 table td {
   padding: 0.5rem 0.75rem;
 }
+
+/* Lux renders strong too lightly to read as emphasis */
+strong, b {
+  font-weight: 700;
+}
