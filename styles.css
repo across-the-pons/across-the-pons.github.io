@@ -41,3 +41,14 @@
 table {
   border-collapse: collapse;
 }
+
+/* Timeline block on the About page */
+.timeline {
+  border-left: 3px solid #2c5f8a;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.timeline p {
+  margin-bottom: 1.1rem;
+}
