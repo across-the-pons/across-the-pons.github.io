@@ -1,4 +1,80 @@
 ---
 title: "People"
-editor: source
+description: "The scholars behind Across the PONs — an international collaborative studying purpose-oriented networks."
+toc: true
+toc-location: left
 ---
+
+Across the PONs is an international collaborative of network scholars, ranging
+from doctoral students to emeritus professors, working collectively to build the
+data infrastructure that purpose-oriented network research has lacked.
+
+## Coordinating Committee
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.person-card}
+[Michael D. Siciliano]{.person-name}
+[Professor]{.person-title}
+[University of Illinois Chicago]{.person-inst}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.person-card}
+[Robin Lemaire]{.person-name}
+[Associate Professor]{.person-title}
+[Louisiana State University]{.person-inst}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.person-card}
+[Jörg Raab]{.person-name}
+[Professor]{.person-title}
+[Tilburg University]{.person-inst}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.person-card}
+[Michelle Shumate]{.person-name}
+[Delaney Family University Research Professor]{.person-title}
+[Northwestern University]{.person-inst}
+:::
+:::
+
+:::
+
+
+## Members
+
+| Name | Title | Institution |
+|------|-------|-------------|
+| Kate Albrecht | Assistant Professor | University of Illinois Chicago |
+| Qian Hu | Professor | George Mason University |
+| Naim Kapucu | Professor | University of Central Florida |
+| Patrick Kenis | Professor | Tilburg University |
+| Yeha Kim | Ph.D. Candidate | Northwestern University |
+| Remco Mannak | Assistant Professor | Tilburg University |
+| Alejandra Medina | Assistant Professor | University of Colorado Denver |
+| H. Brinton Milward | Emeritus Professor | University of Arizona |
+| Göktuğ Morçöl | Professor | Penn State Harrisburg |
+| Branda Nowell | Professor | North Carolina State University |
+| Steven van den Oord | Assistant Professor | Tilburg University |
+| Jörg Raab | Professor | Tilburg University |
+| José Sánchez | Assistant Professor | University of Colorado Denver |
+| Ángel Saz-Carranza | Professor | ESADE |
+| Michelle Shumate | Delaney Family University Research Professor | Northwestern University |
+| Michael D. Siciliano | Professor | University of Illinois Chicago |
+| Travis Whetsell | Assistant Professor | Georgia Institute of Technology |
+| Mashal E Zehra | Ph.D. Candidate | University of Illinois Chicago |
+| Robin Lemaire | Associate Professor | Louisiana State University |
+
+## Joining the collaborative
+
+Across the PONs operates under a data-use and sharing agreement that allows new
+members to join and contribute cases to the shared database. Scholars interested
+in deploying the instruments or contributing data are welcome to get in touch with the coordinating committee:
+[Michael D. Siciliano](mailto:sicilian@uic.edu), [Jorg Raab](mailto:j.raab@tilburguniversity.edu), [Michelle Shumate](mailto:shumate@northwestern.edu), and [Robin Lemaire](mailto:rlemaire@lsu.edu).

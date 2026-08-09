@@ -41,3 +41,63 @@
 table {
   border-collapse: collapse;
 }
+
+/* Timeline block on the About page */
+.timeline {
+  border-left: 3px solid #2c5f8a;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.timeline p {
+  margin-bottom: 1.1rem;
+}
+
+css
+/* Person cards */
+.person-card {
+  background: #f8f9fa;
+  border-left: 4px solid #2c5f8a;
+  padding: 1.1rem 1.25rem;
+  height: 100%;
+}
+
+.person-name {
+  display: block;
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 0.2rem;
+}
+
+.person-title {
+  display: block;
+  font-size: 0.9rem;
+  color: #495057;
+  line-height: 1.35;
+}
+
+.person-inst {
+  display: block;
+  font-size: 0.9rem;
+  color: #6c757d;
+  line-height: 1.35;
+}
+
+/* Members table */
+table {
+  width: 100%;
+  font-size: 0.95rem;
+}
+
+table thead th {
+  border-bottom: 2px solid #2c5f8a;
+  text-align: left;
+}
+
+table tbody tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
+table td {
+  padding: 0.5rem 0.75rem;
+}

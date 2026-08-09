@@ -1,9 +1,95 @@
 ---
-title: "About"
+title: "About the Project"
+description: "Why Across the PONs exists, how the collaborative came together, and what the current study is doing."
+toc: true
+toc-location: left
 ---
 
-About this site
+## The problem we set out to address
 
-```{r}
-1 + 1
-```
+Communities everywhere face problems no single organization can solve such as pandemics,
+homelessness, flooding, wildfire. Responses to these complex issues tend to be in the form of a
+coordinated arrangement across levels of government and sectors. Purpose-oriented
+networks, or PONs, are the formalized version of that response. PONs are defined as three or more
+organizations that consciously affiliate around a shared purpose.
+
+PONs are everywhere in practice, and they have been studied for decades. But as typically studied, tend to focus on a single network in a single context.
+
+We see the field as having a data problem. Testing whether a
+proposed relationship holds requires many networks, observed over time, measured
+the same way. That is data no single scholar and no single lab can assemble. It was this data challenge that gave rise to Across the PONs.
+
+## How the collaborative came together
+
+::: {.timeline}
+
+**June 2022 — Barcelona.** A small group of network scholars gathered at ESADE,
+just emerging from COVID and meeting in person for the first time in over two
+years. The question on the table was where purpose-oriented network research was
+headed and what was missing. The proposal made there was a team science one: if
+enough of us collected data on a few networks each, using a shared instrument, we
+could build collectively what none of us could build alone. Across the PONs
+began at that meeting.
+
+**2023 — Tilburg.** The group assembled a wish list of hypotheses we would test
+given data on hundreds of networks at multiple points in time, all measured the
+same way. That list was translated into specific variables and organized into
+four thematic working groups: context, structure and inputs, governance, and
+process and outputs. Each group spent the following year determining exactly
+what to measure and how.
+
+**2024 — Chicago.** The working groups reconvened to combine their measures and
+draft the instruments themselves.
+
+**Now.** Three instruments exist — an interview guide for network managers, a
+survey for network leaders, and a survey for organizational members — along with
+their codebooks. They are openly available on the Open Science Framework and
+have been translated into Spanish and Dutch. The first wave of data collection using these instruments
+is underway.
+
+:::
+
+The collaborative now includes more than a dozen scholars across the globe,
+ranging from doctoral students to emeritus professors. A data-use and sharing
+agreement is being developed to let new members join and contribute to the shared database.
+
+## The current study
+
+The current study applies these instruments to health and human service PONs in
+four countries: the United States, Mexico, the Netherlands, and Spain. These
+four were chosen for the variation they offer in two contextual dimensions that
+theory suggests should matter — how a country provides social welfare, and
+whether its policymaking runs along corporatist or pluralist lines.
+
+The study asks two questions.
+
+**What country and municipal conditions shape how PONs are configured?** Their
+size, the diversity of their membership, how they are governed, and what
+activities they pursue. Most PON research treats networks as closed systems,
+bracketing the environment they operate in. Drawing on historical
+institutionalism and population ecology, this aim asks what the environment
+actually does.
+
+**Which configurations are associated with network functioning and performance?** Not which single factor matters most, but which combinations
+work — since resources, governance, size, composition, and theory of change
+plausibly operate in concert rather than independently.
+
+That second framing drives our analytic approach. The project uses qualitative
+comparative analysis, a set-theoretic method that asks which combinations of
+conditions are associated with an outcome, rather than estimating the average
+independent effect of each. QCA accommodates an intermediate number of cases,
+treats each network as a whole configuration rather than a bundle of separable
+variables, and allows for equifinality — more than one pathway to the same
+result.
+
+
+## Why it matters
+
+The result will be a first-of-its-kind comparative database on PONs — qualitative,
+quantitative, and social network data at organizational, network, municipal, and
+country levels.
+
+The instruments are open, the protocols are documented, and the sharing agreement will be designed so that other scholars can
+collect comparable data on PONs in contexts we have not studied. The aim is
+infrastructure that outlasts any single project, so that the field can effectively
+test important relationships and guide effective management of these systems.
