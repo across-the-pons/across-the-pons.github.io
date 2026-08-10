@@ -6,8 +6,7 @@ toc-location: left
 ---
 
 Across the PONs is an international collaborative of network scholars, ranging
-from doctoral students to emeritus professors, working collectively to build the
-data infrastructure that purpose-oriented network research has lacked.
+from doctoral students to emeritus professors, working collectively to build a cross-national database on purpose-oriented networks.
 
 ## Coordinating Committee
 

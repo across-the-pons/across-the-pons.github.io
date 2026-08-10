@@ -8,7 +8,7 @@ toc-location: left
 ## The problem we set out to address
 
 Communities everywhere face problems no single organization can solve such as pandemics,
-homelessness, flooding, wildfire. Responses to these complex issues tend to be in the form of a
+homelessness, flooding, and wildfires. Responses to these complex issues tend to be in the form of a
 coordinated arrangement across levels of government and sectors. Purpose-oriented
 networks, or PONs, are the formalized version of that response. PONs are defined as three or more
 organizations that consciously affiliate around a shared purpose.
@@ -57,8 +57,8 @@ agreement lets new members join and contribute to the shared database.
 The current study applies these instruments to health and human service PONs (with plans to expand to environmental PONs) in
 four countries: the United States, Mexico, the Netherlands, and Spain. These
 four were chosen for the variation they offer in two contextual dimensions that
-theory suggests should matter — how a country provides social welfare, and
-whether its policymaking runs along corporatist or pluralist lines.
+theory suggests should matter: (i) how a country provides social welfare, and
+(ii) whether its policymaking runs along corporatist or pluralist lines.
 
 The study asks two questions.
 
@@ -92,6 +92,6 @@ quantitative, and social network data at organizational, network, municipal, and
 country levels.
 
 The instruments are open, the protocols are documented, and the sharing agreement will be designed so that other scholars can
-collect comparable data on PONs in contexts we have not studied. The aim is
-infrastructure that outlasts any single project, so that the field can effectively
+collect comparable data on PONs in contexts we have not studied. The aim develop an
+infrastructure and database that outlasts any single paper, so that the field can more effectively
 test important relationships and guide effective management of these systems.

@@ -11,13 +11,12 @@ The instruments below were developed over three years by working groups within
 the Across the PONs collaborative and are openly available on the Open Science
 Framework. They are free to use.
 
-Our aim in releasing them is straightforward: if enough scholars collect data on
+Our aim in developing them is simple. If enough scholars collect data on
 purpose-oriented networks using common measures, the field gains a comparative
-evidence base no single project could build. Translations of the instruments and
-codebooks into Spanish and Dutch are in progress.
+evidence base no single individual could build. Translations of the instruments and
+codebooks into Spanish and Dutch are in progress. With other languages planned.
 
-Instruments exist in parallel versions for the two policy domains the
-collaborative studies — human services and environmental governance — since some
+Instruments exist in parallel versions for the two policy domains, human services and environmental governance, since some
 measures require domain-specific wording.
 
 ### PON Leader Interview Guide
@@ -56,8 +55,7 @@ member perceptions of network performance.
 
 Scholars are welcome to deploy these instruments in their own research. The
 collaborative operates under a data-use and sharing agreement that allows new
-members to join and contribute cases to the shared database — which is how the
-comparative evidence base grows beyond what any one team can collect.
+members to join and contribute cases to the shared database.
 
 If you plan to use an instrument, or are interested in contributing data, please
 contact members of the coordinating committee: 
@@ -69,7 +67,7 @@ We can provide access to a Qualtrics version of the survey along with a guide on
 ## Working Papers
 
 
-Alongside the instruments, the collaborative's working groups have produced a
+Alongside the instruments, the Across the PON's working groups have produced a
 series of papers taking stock of the field and setting out directions for future
 research.
 
