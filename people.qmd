@@ -53,7 +53,7 @@ from doctoral students to emeritus professors, working collectively to build a c
 | [Kate Albrecht](https://cuppa.uic.edu/profiles/albrecht-kate/) | Assistant Professor | University of Illinois Chicago |
 | [Qian Hu](https://schar.gmu.edu/profiles/qhu4) | Professor | George Mason University |
 | [Naim Kapucu](https://ccie.ucf.edu/person/naim-kapucu/) | Pegasus Professor | University of Central Florida |
-| [Patrick Kenis]https://research.tilburguniversity.edu/en/persons/patrick-kenis/) | Professor | Tilburg University |
+| [Patrick Kenis](https://research.tilburguniversity.edu/en/persons/patrick-kenis/) | Professor | Tilburg University |
 | [Yeha Kim](https://mts.northwestern.edu/students/) | Ph.D. Candidate | Northwestern University |
 | [Robin Lemaire](https://www.lsu.edu/business/directory/employee-profiles/lemaire-robin-pa.php) | Associate Professor | Louisiana State University |
 | [Remco Mannak](https://research.tilburguniversity.edu/en/persons/remco-mannak) | Assistant Professor | Tilburg University |
