@@ -18,7 +18,7 @@
     "href": "resources.html#using-the-instruments",
     "title": "Resources",
     "section": "Using the Instruments",
-    "text": "Using the Instruments\nScholars are welcome to deploy these instruments in their own research. The collaborative operates under a data-use and sharing agreement that allows new members to join and contribute cases to the shared database — which is how the comparative evidence base grows beyond what any one team can collect.\nIf you plan to use an instrument, or are interested in contributing data, please contact members of the coordinating committee: {{&lt; include _contact.qmd &gt;}}\nWe can provide access to a Qualtrics version of the survey along with a guide on how to launch it with your particular PON."
+    "text": "Using the Instruments\nScholars are welcome to deploy these instruments in their own research. The collaborative operates under a data-use and sharing agreement that allows new members to join and contribute cases to the shared database — which is how the comparative evidence base grows beyond what any one team can collect.\nIf you plan to use an instrument, or are interested in contributing data, please contact members of the coordinating committee:\nMichael D. Siciliano, Jörg Raab, Michelle Shumate, and Robin Lemaire.\nWe can provide access to a Qualtrics version of the survey along with a guide on how to launch it with your particular PON."
   },
   {
     "objectID": "resources.html#working-papers",
@@ -39,7 +39,7 @@
     "href": "index.html#contact",
     "title": "Across the PONs",
     "section": "Contact",
-    "text": "Contact\nFor questions about the project or interest in collaborating, contact members of the coordinating committee: {{&lt; include _contact.qmd &gt;}}"
+    "text": "Contact\nFor questions about the project or interest in collaborating, contact members of the coordinating committee:\nMichael D. Siciliano, Jörg Raab, Michelle Shumate, and Robin Lemaire."
   },
   {
     "objectID": "about.html",
@@ -102,6 +102,6 @@
     "href": "people.html#joining-the-collaborative",
     "title": "People",
     "section": "Joining the collaborative",
-    "text": "Joining the collaborative\nAcross the PONs operates under a data-use and sharing agreement that allows new members to join and contribute cases to the shared database. Scholars interested in deploying the instruments or contributing data are welcome to get in touch with the coordinating committee: {{&lt; include _contact.qmd &gt;}}"
+    "text": "Joining the collaborative\nAcross the PONs operates under a data-use and sharing agreement that allows new members to join and contribute cases to the shared database. Scholars interested in deploying the instruments or contributing data are welcome to get in touch with the coordinating committee:\nMichael D. Siciliano, Jörg Raab, Michelle Shumate, and Robin Lemaire."
   }
 ]
