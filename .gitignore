@@ -7,3 +7,4 @@
 site_libs/
 
 **/*.quarto_ipynb
+_maintenance-guide-*.docx
