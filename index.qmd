@@ -8,7 +8,7 @@ toc: false
 ---
 
 ::: {.lead-text}
-Public problems rarely respect organizational and capabilities. The
+Public problems rarely respect organizational boundaries and jurisdictional boundaries. The
 collaborative arrangements that form around them, known as purpose-oriented networks (PONs),
 have become a central instrument of governance, yet we know remarkably little
 about how their structure and performance vary across national contexts.
