@@ -1,6 +1,57 @@
-/* Across the PONs — site styles */
+/* Across the PONs — site styles
+   ------------------------------------------------------------------
+   Palette:
+   #1d4e6f  deep blue   — section headings, page titles
+   #2c5f8a  mid blue    — accents, borders, links
+   #4a7fa5  light blue  — subheadings
+   #f8f9fa  light grey  — card and table row backgrounds
+   ------------------------------------------------------------------ */
 
-/* Opening statement on the landing page */
+
+/* ---- Headings and links --------------------------------------------- */
+
+h2, .h2 {
+  color: #1d4e6f;
+  border-bottom: 2px solid #dbe4ec;
+  padding-bottom: 0.35rem;
+}
+
+h3, .h3 {
+  color: #4a7fa5;
+}
+
+h4, .h4 {
+  color: #2c5f8a;
+}
+
+.quarto-title h1.title {
+  color: #1d4e6f;
+}
+
+a {
+  color: #2c5f8a;
+}
+
+a:hover {
+  color: #1d4e6f;
+}
+
+.navbar-brand {
+  color: #1d4e6f !important;
+}
+
+/* Lux renders strong too lightly to read as emphasis */
+.quarto-container strong,
+.quarto-container b,
+p strong,
+li strong {
+  font-weight: 800 !important;
+}
+
+
+/* ---- Landing page ---------------------------------------------------- */
+
+/* Opening statement */
 .lead-text {
   font-size: 1.25rem;
   line-height: 1.6;
@@ -24,25 +75,22 @@
   text-decoration: underline;
 }
 
-/* Give the banner more vertical presence */
+/* Banner */
 .quarto-title-block .quarto-title-banner {
   min-height: 340px;
   display: flex;
   align-items: center;
 }
 
-/* Keep title text legible over a photographic background */
+/* Keep banner text legible over a photographic background */
 .quarto-title-banner h1.title,
 .quarto-title-banner .subtitle {
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.55);
 }
 
-/* Table on the landing page — remove the boxed look */
-table {
-  border-collapse: collapse;
-}
 
-/* Timeline block on the About page */
+/* ---- About page ------------------------------------------------------ */
+
 .timeline {
   border-left: 3px solid #2c5f8a;
   padding-left: 1.5rem;
@@ -53,8 +101,9 @@ table {
   margin-bottom: 1.1rem;
 }
 
-css
-/* Person cards */
+
+/* ---- People page ----------------------------------------------------- */
+
 .person-card {
   background: #f8f9fa;
   border-left: 4px solid #2c5f8a;
@@ -83,10 +132,13 @@ css
   line-height: 1.35;
 }
 
-/* Members table */
+
+/* ---- Tables ---------------------------------------------------------- */
+
 table {
   width: 100%;
   font-size: 0.95rem;
+  border-collapse: collapse;
 }
 
 table thead th {
@@ -100,12 +152,4 @@ table tbody tr:nth-child(even) {
 
 table td {
   padding: 0.5rem 0.75rem;
-}
-
-/* Lux renders strong too lightly to read as emphasis */
-.quarto-container strong,
-.quarto-container b,
-p strong,
-li strong {
-  font-weight: 800 !important;
 }
