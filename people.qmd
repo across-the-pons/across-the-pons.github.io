@@ -46,30 +46,31 @@ from doctoral students to emeritus professors, working collectively to build a c
 
 :::
 
-
 ## Members
 
 | Name | Title | Institution |
 |------|-------|-------------|
-| Kate Albrecht | Assistant Professor | University of Illinois Chicago |
-| Qian Hu | Professor | George Mason University |
-| Naim Kapucu | Professor | University of Central Florida |
-| Patrick Kenis | Professor | Tilburg University |
-| Yeha Kim | Ph.D. Candidate | Northwestern University |
-| Robin Lemaire | Associate Professor | Louisiana State University |
-| Remco Mannak | Assistant Professor | Tilburg University |
-| Alejandra Medina | Assistant Professor | University of Colorado Denver |
-| H. Brinton Milward | Emeritus Professor | University of Arizona |
-| Göktuğ Morçöl | Professor | Penn State Harrisburg |
-| Branda Nowell | Professor | North Carolina State University |
-| Steven van den Oord | Assistant Professor | Tilburg University |
-| Jörg Raab | Professor | Tilburg University |
-| José Sánchez | Assistant Professor | University of Colorado Denver |
-| Ángel Saz-Carranza | Professor | ESADE |
-| Michelle Shumate | Delaney Family University Research Professor | Northwestern University |
-| Michael D. Siciliano | Professor | University of Illinois Chicago |
-| Travis Whetsell | Assistant Professor | Georgia Institute of Technology |
-| Mashal-E-Zehra | Ph.D. Candidate | University of Illinois Chicago |
+| [Kate Albrecht](https://cuppa.uic.edu/profiles/albrecht-kate/) | Assistant Professor | University of Illinois Chicago |
+| [Qian Hu](https://schar.gmu.edu/profiles/qhu4) | Professor | George Mason University |
+| [Naim Kapucu](https://ccie.ucf.edu/person/naim-kapucu/) | Pegasus Professor | University of Central Florida |
+| [Patrick Kenis]https://research.tilburguniversity.edu/en/persons/patrick-kenis/) | Professor | Tilburg University |
+| [Yeha Kim](https://mts.northwestern.edu/students/) | Ph.D. Candidate | Northwestern University |
+| [Robin Lemaire](https://www.lsu.edu/business/directory/employee-profiles/lemaire-robin-pa.php) | Associate Professor | Louisiana State University |
+| [Remco Mannak](https://research.tilburguniversity.edu/en/persons/remco-mannak) | Assistant Professor | Tilburg University |
+| [Alejandra Medina](https://publicaffairs.ucdenver.edu/people/faculty/alejandra-medina) | Assistant Professor | University of Colorado Denver |
+| [Joshua-Paul Miles](https://communication.illinois.edu/directory/profile/jpmiles) | Assistant Professor | University of Illinois Urbana-Champaign |
+| [H. Brinton Milward](https://www.sgpp.arizona.edu/person/h-brinton-milward) | Professor Emeritus | University of Arizona |
+| [Göktuğ Morçöl](https://harrisburg.psu.edu/faculty-and-staff/goktug-morcol-phd) | Professor | Penn State Harrisburg |
+| [Branda Nowell](https://faculty.chass.ncsu.edu/blnowell) | Professor | North Carolina State University |
+| [Jörg Raab](https://www.tilburguniversity.edu/staff/j-raab) | Professor | Tilburg University |
+| [José Sánchez](https://publicaffairs.ucdenver.edu/people/faculty/jos%C3%A9-s%C3%A1nchez) | Assistant Professor | University of Colorado Denver |
+| [Angel Saz-Carranza](https://www.esade.edu/faculty/angel.saz) | Professor | Esade, Universitat Ramon Llull |
+| [Michelle Shumate](https://communication.northwestern.edu/faculty/michelle-shumate.html) | Delaney Family University Research Professor | Northwestern University |
+| [Michael D. Siciliano](https://cuppa.uic.edu/profiles/siciliano-michael/) | Professor | University of Illinois Chicago |
+| [Steven van den Oord](https://www.tilburguniversity.edu/staff/s-vdnoord) | Assistant Professor | Tilburg University |
+| [Travis Whetsell](https://spp.gatech.edu/people/person/ff1b6a02-e3ce-5c80-a7d5-803a3aee25ae) | Assistant Professor | Georgia Institute of Technology |
+| [Mashal-E-Zehra](https://scholar.google.com/citations?user=E8-Bhi0AAAAJ) | Ph.D. Candidate | University of Illinois Chicago |
+
 
 
 ## Joining the collaborative
