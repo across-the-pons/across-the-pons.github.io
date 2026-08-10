@@ -13,11 +13,11 @@ coordinated arrangement across levels of government and sectors. Purpose-oriente
 networks, or PONs, are the formalized version of that response. PONs are defined as three or more
 organizations that consciously affiliate around a shared purpose.
 
-PONs are everywhere in practice, and they have been studied for decades. But as typically studied, tend to focus on a single network in a single context.
+PONs are everywhere in practice, and they have been studied for decades. But as typically studied, scholars tend to focus on a single network in a single context. In part, because gaining access to PONs can be difficult and collecting network data is time consuming.
 
-We see the field as having a data problem. Testing whether a
+We see the field as having a shortage of comparable data. Testing whether a
 proposed relationship holds requires many networks, observed over time, measured
-the same way. That is data no single scholar and no single lab can assemble. It was this data challenge that gave rise to Across the PONs.
+the same way. That is data no single scholar and no single lab can assemble. It was this data challenge that gave rise to **Across the PONs**.
 
 ## How the collaborative came together
 
@@ -43,19 +43,18 @@ draft the instruments themselves.
 
 **Now.** Three instruments exist — an interview guide for network managers, a
 survey for network leaders, and a survey for organizational members — along with
-their codebooks. They are openly available on the Open Science Framework and
-have been translated into Spanish and Dutch. The first wave of data collection using these instruments
+their codebooks. They are openly available on the Open Science Framework.. The first wave of data collection using these instruments
 is underway.
 
 :::
 
-The collaborative now includes more than a dozen scholars across the globe,
+The collaborative now includes scholars across the globe,
 ranging from doctoral students to emeritus professors. A data-use and sharing
-agreement is being developed to let new members join and contribute to the shared database.
+agreement lets new members join and contribute to the shared database.
 
 ## The current study
 
-The current study applies these instruments to health and human service PONs in
+The current study applies these instruments to health and human service PONs (with plans to expand to environmental PONs) in
 four countries: the United States, Mexico, the Netherlands, and Spain. These
 four were chosen for the variation they offer in two contextual dimensions that
 theory suggests should matter — how a country provides social welfare, and
@@ -63,7 +62,7 @@ whether its policymaking runs along corporatist or pluralist lines.
 
 The study asks two questions.
 
-#### What country and municipal conditions shape how PONs are configured? 
+### What country and municipal conditions shape how PONs are configured? 
 
 Their size, the diversity of their membership, how they are governed, and what
 activities they pursue. Most PON research treats networks as closed systems,
@@ -71,24 +70,24 @@ bracketing the environment they operate in. Drawing on historical
 institutionalism and population ecology, this aim asks what the environment
 actually does.
 
-#### Which configurations are associated with network functioning and performance?
+### Which configurations are associated with network functioning and performance?
 
-Not which single factor matters most, but which combinations
-work — since resources, governance, size, composition, and theory of change
+Our focus here is not on which single factor matters most, but which combinations
+work, since resources, governance, size, composition, and theory of change
 plausibly operate in concert rather than independently.
 
-That second framing drives our analytic approach. The project uses qualitative
+This framing drives our analytic approach. The project uses qualitative
 comparative analysis, a set-theoretic method that asks which combinations of
 conditions are associated with an outcome, rather than estimating the average
 independent effect of each. QCA accommodates an intermediate number of cases,
 treats each network as a whole configuration rather than a bundle of separable
-variables, and allows for equifinality — more than one pathway to the same
-result.
+variables, and allows for equifinality (i.e., more than one pathway to the same
+result).
 
 
 ## Why it matters
 
-The result will be a first-of-its-kind comparative database on PONs — qualitative,
+The result will be a first-of-its-kind comparative database on PONs that includes qualitative,
 quantitative, and social network data at organizational, network, municipal, and
 country levels.
 

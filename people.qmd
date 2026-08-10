@@ -1,6 +1,6 @@
 ---
 title: "People"
-description: "The scholars behind Across the PONs — an international collaborative studying purpose-oriented networks."
+description: "The scholars behind Across the PONs."
 toc: true
 toc-location: left
 ---
@@ -57,6 +57,7 @@ data infrastructure that purpose-oriented network research has lacked.
 | Naim Kapucu | Professor | University of Central Florida |
 | Patrick Kenis | Professor | Tilburg University |
 | Yeha Kim | Ph.D. Candidate | Northwestern University |
+| Robin Lemaire | Associate Professor | Louisiana State University |
 | Remco Mannak | Assistant Professor | Tilburg University |
 | Alejandra Medina | Assistant Professor | University of Colorado Denver |
 | H. Brinton Milward | Emeritus Professor | University of Arizona |
@@ -69,12 +70,13 @@ data infrastructure that purpose-oriented network research has lacked.
 | Michelle Shumate | Delaney Family University Research Professor | Northwestern University |
 | Michael D. Siciliano | Professor | University of Illinois Chicago |
 | Travis Whetsell | Assistant Professor | Georgia Institute of Technology |
-| Mashal E Zehra | Ph.D. Candidate | University of Illinois Chicago |
-| Robin Lemaire | Associate Professor | Louisiana State University |
+| Mashal-E-Zehra | Ph.D. Candidate | University of Illinois Chicago |
+
 
 ## Joining the collaborative
 
 Across the PONs operates under a data-use and sharing agreement that allows new
 members to join and contribute cases to the shared database. Scholars interested
-in deploying the instruments or contributing data are welcome to get in touch with the coordinating committee:
-[Michael D. Siciliano](mailto:sicilian@uic.edu), [Jörg Raab](mailto:j.raab@tilburguniversity.edu), [Michelle Shumate](mailto:shumate@northwestern.edu), and [Robin Lemaire](mailto:rlemaire@lsu.edu).
+in deploying the instruments or contributing data are welcome to get in touch with the coordinating committee: 
+
+{{< include _contact.qmd >}}

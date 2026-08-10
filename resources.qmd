@@ -60,8 +60,9 @@ members to join and contribute cases to the shared database — which is how the
 comparative evidence base grows beyond what any one team can collect.
 
 If you plan to use an instrument, or are interested in contributing data, please
-contact members of the coordinating committee:
-[Michael D. Siciliano](mailto:sicilian@uic.edu), [Jörg Raab](mailto:j.raab@tilburguniversity.edu), [Michelle Shumate](mailto:shumate@northwestern.edu), and [Robin Lemaire](mailto:rlemaire@lsu.edu).
+contact members of the coordinating committee: 
+
+{{< include _contact.qmd >}}
 
 We can provide access to a Qualtrics version of the survey along with a guide on how to launch it with your particular PON.
 
