@@ -77,4 +77,4 @@ data infrastructure that purpose-oriented network research has lacked.
 Across the PONs operates under a data-use and sharing agreement that allows new
 members to join and contribute cases to the shared database. Scholars interested
 in deploying the instruments or contributing data are welcome to get in touch with the coordinating committee:
-[Michael D. Siciliano](mailto:sicilian@uic.edu), [Jorg Raab](mailto:j.raab@tilburguniversity.edu), [Michelle Shumate](mailto:shumate@northwestern.edu), and [Robin Lemaire](mailto:rlemaire@lsu.edu).
+[Michael D. Siciliano](mailto:sicilian@uic.edu), [Jörg Raab](mailto:j.raab@tilburguniversity.edu), [Michelle Shumate](mailto:shumate@northwestern.edu), and [Robin Lemaire](mailto:rlemaire@lsu.edu).

@@ -25,5 +25,7 @@ format:
     theme: lux
     css: styles.css
     toc: false
+    link-external-newwindow: true
+    link-external-icon: true
 
 editor: source

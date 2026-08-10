@@ -46,4 +46,4 @@ Working papers, data collection instruments, and materials for researchers.
 ## Contact
 
 For questions about the project or interest in collaborating, contact members of the coordinating committee:
-[Michael D. Siciliano](mailto:sicilian@uic.edu), [Jorg Raab](mailto:j.raab@tilburguniversity.edu), [Michelle Shumate](mailto:shumate@northwestern.edu), and [Robin Lemaire](mailto:rlemaire@lsu.edu).
+[Michael D. Siciliano](mailto:sicilian@uic.edu), [Jörg Raab](mailto:j.raab@tilburguniversity.edu), [Michelle Shumate](mailto:shumate@northwestern.edu), and [Robin Lemaire](mailto:rlemaire@lsu.edu).
