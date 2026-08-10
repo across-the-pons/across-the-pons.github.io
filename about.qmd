@@ -43,7 +43,7 @@ draft the instruments themselves.
 
 **Now.** Three instruments exist — an interview guide for network managers, a
 survey for network leaders, and a survey for organizational members — along with
-their codebooks. They are openly available on the Open Science Framework.. The first wave of data collection using these instruments
+their codebooks. They are openly available on the Open Science Framework. The first wave of data collection using these instruments
 is underway.
 
 :::
@@ -52,7 +52,7 @@ The collaborative now includes scholars across the globe,
 ranging from doctoral students to emeritus professors. A data-use and sharing
 agreement lets new members join and contribute to the shared database.
 
-## The current study
+## Our current study and data collection effort
 
 The current study applies these instruments to health and human service PONs (with plans to expand to environmental PONs) in
 four countries: the United States, Mexico, the Netherlands, and Spain. These
@@ -85,7 +85,7 @@ variables, and allows for equifinality (i.e., more than one pathway to the same
 result).
 
 
-## Why it matters
+## Why this work matters
 
 The result will be a first-of-its-kind comparative database on PONs that includes qualitative,
 quantitative, and social network data at organizational, network, municipal, and
