@@ -22,7 +22,7 @@ from doctoral students to emeritus professors, working collectively to build a c
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.person-card}
-[Robin Lemaire]{.person-name}
+[Robin LeMaire]{.person-name}
 [Associate Professor]{.person-title}
 [Louisiana State University]{.person-inst}
 :::
