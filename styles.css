@@ -4,6 +4,7 @@
    #1d4e6f  deep blue   — section headings, page titles
    #2c5f8a  mid blue    — accents, borders, links
    #4a7fa5  light blue  — subheadings
+   #e8b968  warm gold   — banner title, navbar brand (on dark)
    #f8f9fa  light grey  — card and table row backgrounds
    ------------------------------------------------------------------ */
 
@@ -37,7 +38,7 @@ a:hover {
 }
 
 .navbar-brand {
-  color: #1d4e6f !important;
+  color: #e8b968 !important;
 }
 
 /* Lux renders strong too lightly to read as emphasis */
@@ -86,6 +87,10 @@ li strong {
 .quarto-title-banner h1.title,
 .quarto-title-banner .subtitle {
   text-shadow: 0 2px 8px rgba(0, 0, 0, 0.55);
+}
+
+.quarto-title-banner h1.title {
+  color: #e8b968;
 }
 
 
