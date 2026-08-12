@@ -9,7 +9,7 @@ toc: false
 
 ::: {.lead-text}
 Public problems rarely respect organizational and jurisdictional boundaries. The
-collaborative arrangements that form around them, known as purpose-oriented networks (PONs),
+collaborative arrangements that form to address transboundary problems, known as purpose-oriented networks (PONs),
 have become a central instrument of governance, yet we know remarkably little
 about how their structure and performance vary across national contexts.
 :::

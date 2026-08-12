@@ -91,7 +91,4 @@ The result will be a first-of-its-kind comparative database on PONs that include
 quantitative, and social network data at organizational, network, municipal, and
 country levels.
 
-The instruments are open, the protocols are documented, and the sharing agreement will be designed so that other scholars can
-collect comparable data on PONs in contexts we have not studied. The aim develop an
-infrastructure and database that outlasts any single paper, so that the field can more effectively
-test important relationships and guide effective management of these systems.
+The instruments are open and the protocols documented, so other scholars can collect comparable data on on their own networks of interest. Our aim is to grow a data infrastructure that outlasts any single paper and facilitates the field's ability to ask, and answer, important questions.
